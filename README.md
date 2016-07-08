@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-The web based client can be build using gulp.
+The web based client can be built using gulp.
 ```
 gulp build
 ```
