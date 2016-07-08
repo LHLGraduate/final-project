@@ -1,5 +1,6 @@
-# LHL Final Project for [@lighthouse-labs](https://github.com/lighthouse-labs)
-### Tinder for Pets
+# Tinder for Pets
+Final Project for [@lighthouse-labs](https://github.com/lighthouse-labs)
+
 Simple responsive web application designed to allow dog owners to find the nearst friend for their pouch.  When the user logs in the application search for nearby friends and allows you to swipe right or left on images of other furbabies similar to tinder.  If you find a match, you'll be given direction to the nearst dog park!
 
 ## Installation
